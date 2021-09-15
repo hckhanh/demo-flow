@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "id": "e7a7492763d89d86",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "a237cb3413980955",
+        "type": "catch",
+        "z": "e7a7492763d89d86",
+        "name": "",
+        "scope": null,
+        "uncaught": false,
+        "x": 680,
+        "y": 340,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "53ba749e5ffbf387",
+        "type": "debug",
+        "z": "e7a7492763d89d86",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 500,
+        "y": 180,
+        "wires": []
+    }
+]
